@@ -1,4 +1,4 @@
-/* const Amdi = require('../events');
+const Amdi = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../config');
 
@@ -97,7 +97,7 @@ Amdi.applyCMD({pattern: 'afk ?(.*)', fromMe: true,  deleteCommand: false,  delet
 }));
 
 module.exports = { secondsToHms };
-*/
+
 
 const RAVANA = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
