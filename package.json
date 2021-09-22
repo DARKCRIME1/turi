@@ -2,7 +2,7 @@
   "name": "queen_amdi",
   "version": "3.0.1v",
   "description": "Queen Amdi Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./QueenAmdi/bot.js",
+  "main": "./turi/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
